@@ -4,6 +4,7 @@ A cute pastel-themed calculator UI inspired by retro CASIO calculators and desig
 
 ## Live LInk
 
+https://tahsin-maria.github.io/basic-calculator/
 
 ## Features
 
